@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "name": "Pinball",
+    "version": "1.0.0",
+    "author": "Izaak Kuipers",
+    "icon": "@local:icon.png"
+  },
+  "position": {
+    "centered": true,
+    "x": 0,
+    "y": 0
+  },
+  "size": {
+    "w": 602,
+    "h": 483
+  },
+  "minSize": {
+    "w": 602,
+    "h": 483
+  },
+  "maxSize": {
+    "w": 602,
+    "h": 483
+  },
+  "state": {
+    "minimized": false,
+    "maximized": false,
+    "headless": false,
+    "resizable": false,
+    "fullscreen": false
+  },
+  "controls": {
+    "minimize": true,
+    "maximize": false,
+    "close": true
+  },
+  "glass": false,
+  "hidden": false,
+  "core": false,
+  "entrypoint": "main.js",
+  "id": "IzK_SpaceCadetPinball"
+}

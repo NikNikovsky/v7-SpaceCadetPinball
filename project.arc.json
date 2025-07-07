@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "Pinball",
+    "description": "Windows XP's Space Cadet Pinball",
+    "author": "Izaak Kuipers",
+    "version": "1.0.0",
+    "installLocation": "U:/Applications/IzK_SpaceCadetPinball",
+    "appId": "IzK_SpaceCadetPinball"
+  },
+  "outFile": "IzK_SpaceCadetPinball.arc",
+  "payloadDir": "src",
+  "devPort": 3128,
+  "buildHash": "9efa6d1f",
+  "noHotRelaunch": false
+}

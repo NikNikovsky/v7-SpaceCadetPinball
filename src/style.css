@@ -1,0 +1,9 @@
+/* Scope CSS of your app by prefixing selectors with the app ID: */
+#IzK_SpaceCadetPinball > div.body {
+  padding: 0;
+}
+
+#IzK_SpaceCadetPinball > div.body canvas.emscripten {
+  width: 600px;
+  height: 440px;
+}
