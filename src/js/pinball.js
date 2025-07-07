@@ -10666,6 +10666,7 @@ const RUN = async (canvas, MASTER_CALLBACK) => {
   console.log(Module);
   run();
   MASTER_CALLBACK(exit);
+  return Module;
 };
 
 return { RUN };
