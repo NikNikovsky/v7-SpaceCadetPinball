@@ -10,6 +10,6 @@
   "outFile": "IzK_SpaceCadetPinball.arc",
   "payloadDir": "src",
   "devPort": 3128,
-  "buildHash": "9efa6d1f",
+  "buildHash": "ed497741",
   "noHotRelaunch": false
 }
